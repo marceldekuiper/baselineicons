@@ -1,3 +1,4 @@
+# Platform SSO - Password Sync
 Klik op onderstaande notificatie:
 
 <img width="360" alt="sync_prompt" src="https://github.com/user-attachments/assets/d606928e-daca-43ec-ba0b-d8e17448e355">
